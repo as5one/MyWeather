@@ -1,0 +1,15 @@
+//
+//  我的天气.pch
+//  我的天气
+//
+//  Created by xuejing on 15/9/19.
+//  Copyright (c) 2015年 asone. All rights reserved.
+//
+
+#ifndef __________pch
+#define __________pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "UILabel+XJLabel.h"
+#endif
